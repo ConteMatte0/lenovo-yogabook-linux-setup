@@ -1,4 +1,3 @@
-# lenovo-yogabook-linux-setup
 # Installazione Linux su Lenovo Yoga Book (YB1-X91L/F)
 
 Questo repository documenta l'approccio ottimale per installare distribuzioni Linux (es. Ubuntu) su Lenovo Yoga Book, configurando correttamente i driver per la tastiera aptica Halo e aggirando le limitazioni hardware legate all'alimentazione delle porte USB OTG in fase di boot.
